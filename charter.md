@@ -1,4 +1,5 @@
 # Charter
+[Ratified on 2022-02-23](meetings/2022-02-23.md#proposal-a).
 
 ## Purpose
 
