@@ -1,3 +1,4 @@
+## Welcome
 Daniel Hardman — Yesterday at 12:03 PM
 
 Welcome to the UnSync meeting, everyone! We will be in meeting mode for approximately the next 12 hours. I will post the agenda below. Please say "hi" on this thread, then read through and comment on the agenda items, using this thread as the place to chat during the meeting.
@@ -6,6 +7,7 @@ Reminder: if you have not already done so, please schedule this recurring meetin
 
 Agenda: https://github.com/decentralized-identity/didcomm-usergroup/blob/main/meetings/2022-02-23.md
 
+## Chat
 Re. agenda item 1, say hi: Hi from Daniel Hardman (SICPA).
 
 Re. agenda Item 2, charter: here is Proposal A -- we ratify the charter as currently written (follow link in agenda). Please leave your votes as thumbs up/thumbs down on this message.
@@ -190,19 +192,26 @@ Daniel Hardman — Today at 9:24 AM
 
 @Brian Richter (Aviary Tech) : Thank you! I sent a maintainer invitation to you (if I correctly remembered your github handle as @brianorwhatever?)
 
+## Summary
 Daniel Hardman — Today at 9:35 AM
 
 Meeting is closed now (but of course our main channel is always open to keep talking). Summary:
 
 Looks like 8 or 9 of us noted our attendance. I think that's a nice first effort. Thanks to everyone who came.
 
+### Proposal A
 Proposal A (ratify charter) passes 7-0.
 
+### Proposal B
 Proposal B (take on the task of DIDComm Guidebook) passes 5-0.
+
+### Maintainers
 We got some volunteers to act as maintainers (thank you, James and Brian!). If others want to volunteer in the future, let us know.
 
+### Guidebook Ideas
 We got some excellent ideas for the Guidebook; Daniel B or I will compile them. Let's keep that as an open brainstorm topic, too. Next meeting, we'll be asking if anybody wants to start working on a section. No pressure, but an invitation...
 
+### Migration Script
 The idea of making DIDComm v1->v2 migration easier got onto our radar.
 
 See you again in 2 weeks.
