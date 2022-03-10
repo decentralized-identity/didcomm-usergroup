@@ -145,3 +145,12 @@ I will be raising a PR or two of my own as well between now and our next meeting
 
 ### Suggestion about Hello World
 @Rodolfo Miranda and @Lance Byrd : re Hello World, you might have a look at the IIW presentation that was given by DSR in Oct 2021. I'll track it down for you. They walked people through sending and receiving a message. You could possibly link to their recording as an extra resource, and/or use the same workflow. One nice thing about it is that the libraries they used have the same interface in 3 or 4 different programming languages, so the Hello World writeup could be almost identical no matter which language a programmer likes.
+
+Daniel Hardman — Today at 8:56 AM
+@Rodolfo Miranda and @Lance Byrd : Here is the presentation I was thinking of: https://cloud.dsr-corporation.com/index.php/s/kZEMQeMR5c2sxG5
+
+It is full of links. One of them is to a demo that shows a sender in python and a receiver in java, I think. https://github.com/sicpa-dlab/didcomm-demo/blob/main/didcomm-demo-python/didcomm_demo/didcomm_demo.py
+
+Since they gave this preso, they finished the Rust work, and they have a wrapper for WASM and Swift, so JavaScript (browser, server-side) and iOS are now possible targets for the same demo. The actual narration/video of their presentation might be (more) helpful. 
+
+@Rodolfo Miranda and @Lance Byrd : Here is a recording that goes along with the PPT and the demo code from DSR, that might be useful in Hello World: https://cloud.dsr-corporation.com/index.php/s/EzED9i2dQcMXi6w
