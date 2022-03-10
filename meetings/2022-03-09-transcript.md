@@ -1,7 +1,7 @@
 ## Welcome
 
 Daniel Hardman — Yesterday at 12:26 PM
-Welcome to the UnSync meeting, everyone! We will be in meeting mode for approximately the next 12 hours. I will post the agenda below. Please say "hi" on this thread, then read through and comment on the agenda items, using this thread as the place to chat during the meeting.
+Welcome to the [UnSync meeting](https://hackmd.io/@dhh1128/Sk5_Gb2J9), everyone! We will be in meeting mode for approximately the next 12 hours. I will post the agenda below. Please say "hi" on this thread, then read through and comment on the agenda items, using this thread as the place to chat during the meeting.
 
 Reminder: if you have not already done so, please schedule this recurring meeting in your calendar for every other Wednesday, at a time convenient to you.
 
@@ -143,4 +143,5 @@ I have an action item to figure out why @Brian Richter (Aviary Tech) didn't get 
 
 I will be raising a PR or two of my own as well between now and our next meeting. (One will be a PR against the DIDComm WG spec repo, removing the guide content which will now be redundant, and updating links in the spec to use our new permalink to the guidebook on didcomm.org.) And I will publish the transcript of this meeting at https://github.com/decentralized-identity/didcomm-usergroup/blob/main/meetings/2022-03-09-transcript.md
 
+### Suggestion about Hello World
 @Rodolfo Miranda and @Lance Byrd : re Hello World, you might have a look at the IIW presentation that was given by DSR in Oct 2021. I'll track it down for you. They walked people through sending and receiving a message. You could possibly link to their recording as an extra resource, and/or use the same workflow. One nice thing about it is that the libraries they used have the same interface in 3 or 4 different programming languages, so the Hello World writeup could be almost identical no matter which language a programmer likes.
