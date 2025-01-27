@@ -1,0 +1,33 @@
+{
+  "name": "didcomm-usergroup",
+  "description": "DIFComm User Group",
+  "version": "0.0.1",
+  "homepage": "https://identity.foundation/",
+  "license": "Apache 2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/decentralized-identity/SIG-China"
+  },
+  "dependencies": {
+    "markdown-it": "^9.1.0",
+    "spec-up": "^0.10.6"
+  },
+  "devDependencies": {
+    "ajv": "^8.10.0",
+    "ajv-formats": "^2.1.1",
+    "del-cli": "^4.0.1",
+    "markdown-it": "^12.3.2",
+    "mocha": "^9.2.2"
+  },
+  "scripts": {
+    "render": "npm run build",
+    "edit": "npm run dev",
+    "test": "mocha 'test/**/*.js'",
+    "build": "npm run clean && npm run resources && npm run build:specs",
+    "build:specs": "node -e \"require('spec-up')({ nowatch: true })\"",
+    "dev": "npm run clean && npm run resources && npm run dev:specs",
+    "dev:specs": "node -e \"require('spec-up')()\"",
+    "resources": "",
+    "clean": "del build && mkdir build"
+  }
+}
